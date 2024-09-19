@@ -1,0 +1,47 @@
+[
+    {
+        "id": "Heater 1",
+        "button": "Q",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-1.mp3"
+    },
+    {
+        "id": "Heater 2",
+        "button": "W",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-2.mp3"
+    },
+    {
+        "id": "Heater 3",
+        "button": "E",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-3.mp3"
+    },
+    {
+        "id": "Heater 4",
+        "button": "A",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-4_1.mp3"
+    },
+    {
+        "id": "Clap",
+        "button": "S",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Heater-6.mp3"
+    },
+    {
+        "id": "Open-HH",
+        "button": "D",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Dsc_Oh.mp3"
+    },
+    {
+        "id": "Kick-n'-Hat",
+        "button": "Z",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Kick_n_Hat.mp3"
+    },
+    {
+        "id": "Kick",
+        "button": "X",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/RP4_KICK_1.mp3"
+    },
+    {
+        "id": "Closed-HH",
+        "button": "C",
+        "src": "https://cdn.freecodecamp.org/testable-projects-fcc/audio/Cev_H2.mp3"
+    }
+]

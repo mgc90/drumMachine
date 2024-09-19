@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drumMachine/static/css/main.cfc158d1.css",
+    "main.js": "/drumMachine/static/js/main.2d748638.js",
+    "static/js/453.a32f8043.chunk.js": "/drumMachine/static/js/453.a32f8043.chunk.js",
+    "static/media/Inter-SemiBold.woff": "/drumMachine/static/media/Inter-SemiBold.ff53c7406a23717b16a8.woff",
+    "static/media/Inter-Regular.woff": "/drumMachine/static/media/Inter-Regular.bafbd62f86d686bb65d0.woff",
+    "static/media/Inter-Bold.woff": "/drumMachine/static/media/Inter-Bold.b755d2e570b1329b527d.woff",
+    "static/media/Inter-Medium.woff": "/drumMachine/static/media/Inter-Medium.19051ee52164b5e67119.woff",
+    "static/media/Inter-SemiBold.woff2": "/drumMachine/static/media/Inter-SemiBold.57fcd36069589ac94692.woff2",
+    "static/media/Inter-Regular.woff2": "/drumMachine/static/media/Inter-Regular.1619ff46967e77779ac6.woff2",
+    "static/media/Inter-Bold.woff2": "/drumMachine/static/media/Inter-Bold.36a650f426faae9edc53.woff2",
+    "static/media/Inter-Medium.woff2": "/drumMachine/static/media/Inter-Medium.d5afc4bd2dfa4a0c724a.woff2",
+    "index.html": "/drumMachine/index.html",
+    "main.cfc158d1.css.map": "/drumMachine/static/css/main.cfc158d1.css.map",
+    "main.2d748638.js.map": "/drumMachine/static/js/main.2d748638.js.map",
+    "453.a32f8043.chunk.js.map": "/drumMachine/static/js/453.a32f8043.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfc158d1.css",
+    "static/js/main.2d748638.js"
+  ]
+}
