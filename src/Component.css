@@ -1,0 +1,92 @@
+#drum-machine {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10vh auto;
+   
+    max-width: 700px;
+}
+
+.drum-pad {
+    padding: 0 1rem;
+    display: inline-flex;
+    width: 20vw;
+    max-width: 175px;
+    font-size: 5vmin;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    transition: background-color 0.1s ease, transform 0.1s ease;
+    outline: none; /* Eliminar el contorno predeterminado */
+    opacity: 0.4;
+    border-radius: 0.5cap;
+    height: 20vw;
+    max-height: 175px;
+}
+
+#display {
+    width: 70vw;
+    border: 5px groove black;
+    background: linear-gradient(
+      darkslategrey,
+      grey,
+      lightgrey,
+      rgb(17, 59, 45),
+      grey,
+      black
+    );
+    border-radius: 0.5cap;
+    padding: 2rem 0;
+}
+
+.drum-pad:focus {
+    background-color: grey; /* Color cuando el botón está enfocado con el teclado */
+    transform: scale(0.95); /* Simular pulsación al estar enfocado */
+    outline: none;
+}
+  
+.dbBox {
+    padding: 0;
+    width: 15rem;
+    margin: 0 auto;
+}
+
+.inputText {
+    width: 3rem;
+    padding: 0;
+}
+
+.slider {
+    width: 10rem;
+    margin: 1rem auto;
+}
+
+h6 {
+    font-size: 40%;
+}
+
+.bankSelect {
+    padding: 0;
+    font-weight: 900;
+}
+
+.currentSoundContent {
+    border: 3px groove black;
+    border-radius: 5cap;
+    width: 7rem;
+    margin: -1rem auto 2rem;
+    
+}
+
+h1, h2 {
+    color : rgb(141, 141, 141);
+    text-shadow: 3px 2px black;
+
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: -1rem;
+}
